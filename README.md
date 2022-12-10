@@ -8,4 +8,4 @@ New to Github
 
 * Space Cooler - "Space Invaders Clone"
 
-https://studio.code.org/projects/gamelab/VWuHX0CaszhrBjKTsSNQqqzIYV92tleDN-wgyLSi9gc
+  https://studio.code.org/projects/gamelab/VWuHX0CaszhrBjKTsSNQqqzIYV92tleDN-wgyLSi9gc
