@@ -1,11 +1,24 @@
-### Hi there 👋
+## HTML - small projects
 
-New to Github
+| Name of the Project | Repository                                               | GitHub Pages                                               |
+| ------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
+| Quote Generator     | [Repository](https://github.com/Shcoobz/quote-generator) | [GitHub Pages](https://shcoobz.github.io/quote-generator/) |
+| Infinite Scroll     | [Repository](https://github.com/yourusername/repo2)      | [GitHub Pages](https://yourusername.github.io/repo2)       |
+| Picture in Picture  | [Repository](https://github.com/yourusername/repo3)      | [GitHub Pages](https://yourusername.github.io/repo3)       |
+| Joke Teller         | [Repository](https://github.com/yourusername/repo3)      | [GitHub Pages](https://yourusername.github.io/repo3)       |
 
-- 🌱 I’m currently learning to code.
+## HTML - games
 
-## Mah little gamez
+| Name of the Project | Repository                                          | GitHub Pages                                         |
+| ------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| Project 1           | [Repository](https://github.com/yourusername/repo1) | [GitHub Pages](https://yourusername.github.io/repo1) |
+| Project 2           | [Repository](https://github.com/yourusername/repo2) | [GitHub Pages](https://yourusername.github.io/repo2) |
+| Project 3           | [Repository](https://github.com/yourusername/repo3) | [GitHub Pages](https://yourusername.github.io/repo3) |
 
-* Space Cooler - "Space Invaders Clone"
+## react - games
 
-  https://studio.code.org/projects/gamelab/VWuHX0CaszhrBjKTsSNQqqzIYV92tleDN-wgyLSi9gc
+| Name of the Project | Repository                                          | GitHub Pages                                         |
+| ------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| Project 1           | [Repository](https://github.com/yourusername/repo1) | [GitHub Pages](https://yourusername.github.io/repo1) |
+| Project 2           | [Repository](https://github.com/yourusername/repo2) | [GitHub Pages](https://yourusername.github.io/repo2) |
+| Project 3           | [Repository](https://github.com/yourusername/repo3) | [GitHub Pages](https://yourusername.github.io/repo3) |
