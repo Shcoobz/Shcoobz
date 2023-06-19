@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+
 ## HTML - small projects
 
 | Name of the Project | Repository                                               | GitHub Pages                                               |
