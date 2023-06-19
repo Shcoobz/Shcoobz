@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 ## HTML - small projects
 
 | Name of the Project | Repository                                               | GitHub Pages                                               |
@@ -22,3 +23,5 @@
 | Project 1           | [Repository](https://github.com/yourusername/repo1) | [GitHub Pages](https://yourusername.github.io/repo1) |
 | Project 2           | [Repository](https://github.com/yourusername/repo2) | [GitHub Pages](https://yourusername.github.io/repo2) |
 | Project 3           | [Repository](https://github.com/yourusername/repo3) | [GitHub Pages](https://yourusername.github.io/repo3) |
+
+</div>
