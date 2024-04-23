@@ -1,3 +1,7 @@
+## portfolio page:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Link-ff69b4?style=for-the-badge&logo=github)](https://shcoobz.github.io/)
+
 ## basicJS && react ++
 
 | Project Name                    | basicJS                                                                                                                                                                                                                                                                                                                            | react                                                                                                                                                                                                                                                                                                                          |
