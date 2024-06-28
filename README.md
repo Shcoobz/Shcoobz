@@ -4,9 +4,9 @@
 
 <br>
 
-| Project Name                    | advancedJS                                                                                                                                        |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tailwind: Animated Template** | [![Repo](https://img.shields.io/badge/Repo-Link-007bff?style=for-the-badge&logo=github)](https://github.com/Shcoobz/advancedJS_mern_blabber-bot/) |
+| Project Name                | advancedJS                                                                                                                                        |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Typescript: Blabber Bot** | [![Repo](https://img.shields.io/badge/Repo-Link-007bff?style=for-the-badge&logo=github)](https://github.com/Shcoobz/advancedJS_mern_blabber-bot/) |
 
 <br>
 
