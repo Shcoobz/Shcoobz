@@ -4,9 +4,9 @@
 
 <br>
 
-| Project Name                | advancedJS                                                                                                                                                                                                                                                                                      |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Typescript: Blabber Bot** | [![Repo](https://img.shields.io/badge/Repo-Link-007bff?style=for-the-badge&logo=github)](https://github.com/Shcoobz/advancedJS_mern_blabber-bot/) - [![Demo](https://img.shields.io/badge/Demo-Link-28a745?style=for-the-badge&logo=chrome)](https://advancedjs-mern-blabber-bot.onrender.com/) |
+| Project Name                | advancedJS                                                                                                                                                                                                                                                                                    |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Typescript: Blabber Bot** | [![Repo](https://img.shields.io/badge/Repo-Link-007bff?style=for-the-badge&logo=github)](https://github.com/Shcoobz/advancedJS_mern_blabber-bot/) [![Demo](https://img.shields.io/badge/Demo-Link-28a745?style=for-the-badge&logo=chrome)](https://advancedjs-mern-blabber-bot.onrender.com/) |
 
 <br>
 
