@@ -127,6 +127,11 @@
    <img src="https://komarev.com/ghpvc/?username=Shcoobz&style=for-the-badge&color=28A745&label=Page+Views" alt="Page Views"/>
 </div>
 
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://img.icons8.com/ios-filled/50/000000/visitor.png" alt="Visitor Icon" style="height: 28px; margin-right: 8px;">
+  <img src="https://komarev.com/ghpvc/?username=Shcoobz&style=for-the-badge&color=28A745&label=Page+Views" alt="Page Views" style="border-radius: 0px;"/>
+</div>
+
 ##
 
 <!-- Snake eating commits -->
