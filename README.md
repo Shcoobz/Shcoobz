@@ -128,6 +128,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shcoobz.Shcoobz&left_color=gray&right_color=28A745" alt="Visitor Count"/>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/get/Shcoobz/Shcoobz&label=visitors&query=value&color=28A745&labelColor=gray&style=for-the-badge&logo=github" alt="Visitor Count"/>
+</div>
+
 ##
 
 <!-- Snake eating commits -->
