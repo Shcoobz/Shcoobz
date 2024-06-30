@@ -128,9 +128,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shcoobz.Shcoobz&left_color=gray&right_color=%2328A745" alt="Visitor Count" style="height: 30px;"/>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shcoobz.Shcoobz&left_color=gray&right_color=%2328A745&text=Profile%20Views-Visitors" alt="Visitor Count" style="border-radius: 0px; height: 28px;"/>
-</div>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Shcoobz.Shcoobz&left_color=gray&right_color=%2328A745&text=Page%20Views-)
 
 ##
 
