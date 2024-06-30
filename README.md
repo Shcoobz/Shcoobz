@@ -20,8 +20,10 @@
 
 ## BasicJS && AdvancedJS
 
+```
 <!--
 /* A list of various basic JavaScript projects, which I subsequently rewrote using React to enhance functionality and performance. These projects include practical applications like calculators, form validation, and custom countdown timers, showcasing my ability to implement fundamental JavaScript concepts and then scale them with React. */
 -->
+```
 
 [basicJS && advancedJS projects list](https://github.com/Shcoobz/list_basic-and-advanced-js-projects)
