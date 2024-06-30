@@ -24,7 +24,7 @@ jobs:
           mkdir -p assets
           git config --local user.email "a.boeckmann23@gmail.com"
           git config --local user.name "Shcoobz"
-          git add .
+          git add assets/github-contribution-grid-snake.gif assets/github-contribution-grid-snake.svg
           git commit -m "Update GitHub snake animation" -a || echo "No changes to commit"
 
       - name: Push changes
