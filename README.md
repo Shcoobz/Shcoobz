@@ -1,4 +1,4 @@
-## PROJECT PORTFOLIO
+# PROJECT PORTFOLIO
 
 ```
  /*
@@ -16,7 +16,7 @@
 
 <br>
 
-## MERN
+# MERN
 
 ```
 /*
@@ -39,7 +39,7 @@
 
 <br>
 
-## BasicJS && AdvancedJS ++
+# BasicJS && AdvancedJS ++
 
 ```
 /*
@@ -58,7 +58,7 @@
 
 <br>
 
-## BasicJS && AdvancedJS
+# BasicJS && AdvancedJS
 
 ```
 /*
@@ -77,7 +77,7 @@
 
 <br>
 
-## BasicJS
+# BasicJS
 
 ```
 /*
