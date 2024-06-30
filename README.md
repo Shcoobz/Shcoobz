@@ -124,8 +124,8 @@
 <br>
 
 <!-- Visitor counter -->
-<div align="center" style="background-color: #28A745; padding: 6px 10px; border-radius: 3px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shcoobz.Shcoobz&left_color=gray&right_color=28A745" alt="Visitor Count" style="border-radius: 0px; height: 28px;"/>
+<div align="center" style=" padding: 6px 10px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shcoobz.Shcoobz&left_color=gray&right_color=%2328A745" alt="Visitor Count" style="border-radius: 0px; height: 28px;"/>
 </div>
 
 ##
