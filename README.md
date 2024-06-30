@@ -12,7 +12,7 @@
 
 <br>
 
-[![project portfolio](https://img.shields.io/badge/project_portfoliob-Link-28a745?style=for-the-badge&logo=github)](https://shcoobz.github.io/)
+[![project portfolio](https://img.shields.io/badge/project_portfolio-Link-28a745?style=for-the-badge&logo=github)](https://shcoobz.github.io/)
 
 <br>
 
