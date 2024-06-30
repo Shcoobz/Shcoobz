@@ -125,7 +125,7 @@
 
 <!-- Visitor counter -->
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/get/Shcoobz/Shcoobz/visits&label=visitors&query=value&color=blue" alt="Visitor Count"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/get/Shcoobz/github-profile-visits/visits&label=visitors&query=value&color=blue" alt="Visitor Count"/>
 </div>
 
 ##
