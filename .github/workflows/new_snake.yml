@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # This schedule runs the action every 6 hours
+  workflow_dispatch: # This allows manual triggering of the action
 
 jobs:
   build:
@@ -31,4 +31,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master # Push directly to the master branch
+          branch: main # Ensure you are pushing to the 'main' branch
