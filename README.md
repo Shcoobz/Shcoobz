@@ -129,7 +129,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shcoobz&style=for-the-badge&color=%28A745&label=Page+Views" alt="Page Views"/>
+   <img src="https://komarev.com/ghpvc/?username=Shcoobz&style=for-the-badge&color=28A745&label=Page+Views" alt="Page Views"/>
 </div>
 
 ##
