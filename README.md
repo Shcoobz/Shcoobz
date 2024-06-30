@@ -53,7 +53,8 @@
  * incorporating additional tools and technologies.
  *
  * These projects started with basic JavaScript, were rewritten with React, and then
- * extended with various utilities to explore new possibilities and improve functionality, * resulting in more dynamic and comprehensive web applications.
+ * extended with various utilities to explore new possibilities and improve functionality
+ * resulting in more dynamic and comprehensive web applications.
  */
 ```
 
