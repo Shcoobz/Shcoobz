@@ -110,5 +110,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Shcoobz/Shcoobz/blob/output/github-contribution-grid-snake.gif" alt="snake" />
+  <img src="https://github.com/Shcoobz/Shcoobz/blob/master/assets/github-contribution-grid-snake.gif" alt="snake" />
 </p>

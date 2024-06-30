@@ -1,0 +1,34 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # Ensure full git history is checked out if needed
+
+      - uses: Platane/snk@master
+        with:
+          github_user_name: Shcoobz
+          gif_out_path: assets/github-contribution-grid-snake.gif
+          svg_out_path: assets/github-contribution-grid-snake.svg
+
+      - name: Prepare for deployment
+        run: |
+          mkdir -p assets
+          git config --local user.email "a.boeckmann23@gmail.com"
+          git config --local user.name "Shcoobz"
+          git add .
+          git commit -m "Update GitHub snake animation" -a || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master # Push directly to the master branch
