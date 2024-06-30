@@ -35,7 +35,7 @@
 
 <br>
 
-[![mern projects](https://img.shields.io/badge/mern_projects-List-28a745?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_basic-and-advanced-js-projects)
+[![mern projects](https://img.shields.io/badge/mern_projects-List-28a745?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_mern-projects)
 
 <br>
 
