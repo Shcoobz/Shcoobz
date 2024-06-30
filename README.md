@@ -108,3 +108,7 @@
     <img src="https://img.shields.io/badge/basicJS_projects-List-28a745?style=for-the-badge&logo=github" alt="basicJS projects list"/>
   </a>
 </div>
+
+<p align="center">
+  <img width="1000" src="https://github.com/shcoobz/shcoobz/blob/master/dist/github-snake.svg" alt="snake"/>
+</p>
