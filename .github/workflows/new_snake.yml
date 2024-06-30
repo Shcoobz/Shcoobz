@@ -37,3 +37,5 @@ jobs:
         with:
           target_branch: main # Or 'main', adjust according to your setup
           build_dir: assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
