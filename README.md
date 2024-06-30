@@ -1,3 +1,17 @@
+## PROJECT PORTFOLIO
+
+```
+ /* On my project portfolio page, I showcase exactly the same projects,
+  * but in a fancy and time consuming (fun, though!) way.
+  */
+```
+
+<br>
+
+[![project portfolio](https://img.shields.io/badge/project_portfoliob-Link-28a745?style=for-the-badge&logo=github)](https://shcoobz.github.io/)
+
+<br>
+
 ## MERN
 
 ```
@@ -60,4 +74,4 @@
 
 <br>
 
-[![basicJS && advancedJS projects list](https://img.shields.io/badge/basicJS_and_advancedJS_projects-List-007bff?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_basic-and-advanced-js-projects)
+[![basicJS && advancedJS projects list](https://img.shields.io/badge/basicJS_and_advancedJS_projects-List-28a745?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_basic-and-advanced-js-projects)
