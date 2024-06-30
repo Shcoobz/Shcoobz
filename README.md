@@ -1,7 +1,8 @@
 ## PROJECT PORTFOLIO
 
 ```
- /* On my project portfolio page, I showcase exactly the same projects,
+ /*
+  * On my project portfolio page, I showcase exactly the same projects,
   * but in a fancy and time consuming (fun, though!) way.
   *
   * Obviously, the most recent projects are displayed first on GitHub,
@@ -18,7 +19,8 @@
 ## MERN
 
 ```
-/* ChatGPT 3.5 ChatBot using MERN Stack:
+/*
+ * ChatGPT 3.5 ChatBot using MERN Stack:
  *
  * This project demonstrates my implementation of a frontend application
  * that interacts with OpenAI's ChatGPT 3.5 API, using TypeScript along with
