@@ -54,7 +54,7 @@
 
 <br>
 
-[![basicJS && advancedJS plus projects list](https://img.shields.io/badge/basicJS_and_advancedJS_++_projects-List-28a745?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_basicJS-and-advancedJS-projects)
+[![basicJS && advancedJS plus projects list](https://img.shields.io/badge/basicJS_and_advancedJS_++_projects-List-28a745?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_basicJS-and-advancedJS-plus-projects)
 
 <br>
 
