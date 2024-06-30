@@ -109,6 +109,6 @@
   </a>
 </div>
 
-<p align="center">
- <img width="1000" src="dist/github-snake.svg" alt="snake"/>
-</p>
+<div align="center">
+ <img width="1000" src="dist/github-snake.gif" alt="snake"/>
+</div>
