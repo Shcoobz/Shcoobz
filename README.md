@@ -12,7 +12,11 @@
 
 <br>
 
-[![project portfolio](https://img.shields.io/badge/project_portfolio-Link-28a745?style=for-the-badge&logo=github)](https://shcoobz.github.io/)
+<div align="center">
+  <a href="https://shcoobz.github.io/">
+    <img src="https://img.shields.io/badge/project_portfolio-Link-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
+  </a>
+</div>
 
 <br>
 
@@ -35,7 +39,11 @@
 
 <br>
 
-[![mern projects](https://img.shields.io/badge/mern_projects-List-28a745?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_mern-projects)
+<div align="center">
+  <a href="https://github.com/Shcoobz/list_mern-projects">
+    <img src="https://img.shields.io/badge/mern_projects-List-28a745?style=for-the-badge&logo=github" alt="mern projects"/>
+  </a>
+</div>
 
 <br>
 
@@ -54,7 +62,11 @@
 
 <br>
 
-[![basicJS && advancedJS plus projects list](https://img.shields.io/badge/basicJS_and_advancedJS_++_projects-List-28a745?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_basicJS-and-advancedJS-plus-projects)
+<div align="center">
+  <a href="https://github.com/Shcoobz/list_basicJS-and-advancedJS-plus-projects">
+    <img src="https://img.shields.io/badge/basicJS_and_advancedJS_++_projects-List-28a745?style=for-the-badge&logo=github" alt="basicJS && advancedJS plus projects list"/>
+  </a>
+</div>
 
 <br>
 
@@ -73,7 +85,11 @@
 
 <br>
 
-[![basicJS && advancedJS projects list](https://img.shields.io/badge/basicJS_and_advancedJS_projects-List-28a745?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_basicJS-and-advancedJS-projects)
+<div align="center">
+  <a href="https://github.com/Shcoobz/list_basicJS-and-advancedJS-projects">
+    <img src="https://img.shields.io/badge/basicJS_and_advancedJS_projects-List-28a745?style=for-the-badge&logo=github" alt="basicJS && advancedJS projects list"/>
+  </a>
+</div>
 
 <br>
 
@@ -87,4 +103,8 @@
 
 <br>
 
-[![basicJS projects list](https://img.shields.io/badge/basicJS_projects-List-28a745?style=for-the-badge&logo=github)](https://github.com/Shcoobz/list_basicJS-projects)
+<div align="center">
+  <a href="https://github.com/Shcoobz/list_basicJS-projects">
+    <img src="https://img.shields.io/badge/basicJS_projects-List-28a745?style=for-the-badge&logo=github" alt="basicJS projects list"/>
+  </a>
+</div>
