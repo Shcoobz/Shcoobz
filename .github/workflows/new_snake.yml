@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3 # Assuming v3 supports Node.js 20
         with:
           fetch-depth: 0 # Ensure full git history is checked out if needed
 
@@ -32,3 +32,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main # Ensure you are pushing to the 'main' branch
+
+      - uses: crazy-max/ghaction-github-pages@v3 # Assuming v3 supports Node.js 20
+        with:
+          target_branch: main # Or 'main', adjust according to your setup
+          build_dir: assets
