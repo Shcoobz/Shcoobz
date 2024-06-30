@@ -125,7 +125,7 @@
 
 <!-- Visitor counter -->
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=28A745&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FShcoobz.Shcoobz%2Freadme" alt="Visitor Count"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shcoobz.Shcoobz&left_color=gray&right_color=28A745" alt="Visitor Count"/>
 </div>
 
 ##
