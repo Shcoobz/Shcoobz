@@ -114,4 +114,23 @@
 
 ##
 
+<br>
+
+<!-- Most used languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcoobz&layout=compact&theme=dark" alt="Top Langs"/>
+</div>
+
+<br>
+
+<!-- Visitor counter -->
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/get/Shcoobz/Shcoobz/visits&label=visitors&query=value&color=blue" alt="Visitor Count"/>
+</div>
+
+##
+
+<!-- Snake eating commits -->
+<div align="center">
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Shcoobz/Shcoobz/output/github-contribution-grid-snake-dark.svg" />
+</div>
