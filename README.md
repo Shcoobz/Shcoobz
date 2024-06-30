@@ -109,4 +109,6 @@
   </a>
 </div>
 
-![snake gif](https://github.com/Shcoobz/Shcoobz/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/Shcoobz/Shcoobz/blob/output/github-contribution-grid-snake.gif" alt="snake" />
+</p>
