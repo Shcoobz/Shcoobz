@@ -1,4 +1,4 @@
-## PROJECT PORTFOLIO
+## >>> PROJECT PORTFOLIO
 
 > On my project portfolio page, I showcase exactly the same projects, but in a fancy and time consuming (fun, though!) way.
 >
@@ -16,7 +16,7 @@
 
 <br>
 
-## BasicJava
+## >>> BasicJava
 
 > A collection of diverse basic Java projects, which demonstrate the application of core Java principles
 > in creating complex simulations and interactive applications.
@@ -36,7 +36,7 @@
 
 <br>
 
-## MERN
+## >>> MERN
 
 > ChatGPT 3.5 ChatBot using MERN Stack:
 >
@@ -56,7 +56,7 @@
 
 <br>
 
-## BasicJS && AdvancedJS ++
+## >>> BasicJS && AdvancedJS ++
 
 > A list of projects where I additionally experimented further by incorporating additional tools and technologies.
 >
@@ -74,7 +74,7 @@
 
 <br>
 
-## BasicJS && AdvancedJS
+## >>> BasicJS && AdvancedJS
 
 > A list of various basic JavaScript projects, which I subsequently rewrote using React to enhance functionality and performance.
 >
@@ -92,7 +92,7 @@
 
 <br>
 
-## BasicJS
+## >>> BasicJS
 
 > A list of basic JavaScript projects, using only HTML, CSS and JavaScript.
 >
@@ -113,6 +113,20 @@
 <!-- Most used languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcoobz&layout=compact&theme=dark" alt="Top Langs"/>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Commits in the Recent Year -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shcoobz&theme=dark" alt="GitHub Streak Stats"/>
+</div>
+
+<!-- WakaTime badge for weekly coding activity -->
+<div align="center">
+  <a href="https://wakatime.com/@Shcoobz">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark" alt="WakaTime Stats"/>
+  </a>
 </div>
 
 <br>
