@@ -26,14 +26,15 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shcoobz&theme=dark" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shcoobz&theme=whatsapp-dark2&border=28A745&currStreakNum=28A745&sideNums=28A745" alt="GitHub Streak Stats"/>
+  <!-- shadow-green  -->
 </div>
 
 <br>
 
 <!-- Most used languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcoobz&layout=compact&theme=dark" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcoobz&layout=compact&theme=gotham&title_color=28A745&border_color=28A745" alt="Top Langs"/>
 </div>
 
 <br>
