@@ -8,11 +8,11 @@
 >
 > <div align="center">
 >  <a href="https://shcoobz.github.io/">
->    <img src="https://img.shields.io/badge/project_portfolio-Link-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
+>    <img src="https://img.shields.io/badge/portfolio_&nbsp_&nbsp_page-Link-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
 >  </a>
 > <p></p>
 > <a href="https://github.com/Shcoobz/list_projects">
->     <img src="https://img.shields.io/badge/github_projects-List-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
+>     <img src="https://img.shields.io/badge/github_&nbsp_projects-List-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
 >   </a>
 > </div>
 >
