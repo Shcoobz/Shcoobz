@@ -1,4 +1,4 @@
-## >>> PROJECT PORTFOLIO
+## >>> Project Portfolio
 
 > On my project portfolio page, I showcase exactly the same projects, but in a fancy and time consuming (fun, though!) way.
 >
@@ -110,6 +110,17 @@
 
 <br>
 
+##
+
+<br>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shcoobz&theme=dark" alt="GitHub Streak Stats"/>
+</div>
+
+<br>
+
 <!-- Most used languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcoobz&layout=compact&theme=dark" alt="Top Langs"/>
@@ -117,19 +128,14 @@
 
 <br>
 
-<div align="center">
-  <!-- Commits in the Recent Year -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shcoobz&theme=dark" alt="GitHub Streak Stats"/>
-</div>
-
 <!-- WakaTime badge for weekly coding activity -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://wakatime.com/@Shcoobz">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark" alt="WakaTime Stats"/>
   </a>
 </div>
 
-<br>
+<br> -->
 
 <!-- Visitor counter -->
 <div align="center">
