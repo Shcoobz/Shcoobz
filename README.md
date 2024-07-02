@@ -34,7 +34,7 @@
 
 <!-- Most used languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcoobz&layout=compact&theme=gotham&title_color=28A745&border_color=28A745" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcoobz&layout=compact&theme=gotham&bg_color=0B141B&title_color=28A745&border_color=28A745" alt="Top Langs"/>
 </div>
 
 <br>
