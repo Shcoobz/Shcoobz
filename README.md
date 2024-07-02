@@ -10,6 +10,7 @@
 >  <a href="https://shcoobz.github.io/">
 >    <img src="https://img.shields.io/badge/portfolio_&hairsp;_page-Link-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
 >  </a>
+> <img src="https://img.shields.io/badge/[&nbsp;&nbsp;&nbsp;]-7542a7?style=for-the-badge" alt="Complementary Color"/>
 > <a href="https://github.com/Shcoobz/list_projects">
 >     <img src="https://img.shields.io/badge/github_projects-List-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
 >   </a>
