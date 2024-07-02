@@ -1,12 +1,20 @@
 ## >>> Project Portfolio
 
 <blockquote>
-  <p style="font-size: 1.25em; font-weight: normal;">
-    On my project portfolio page, I showcase exactly the same projects, but in a fancy and time consuming (fun, though!) way.
-  </p>
-  <p style="font-size: 1.25em; font-weight: normal;">
-    Obviously, the most recent projects are displayed first on GitHub, as I use it extensively for version control.
-  </p>
+On my project portfolio page, I showcase exactly the same projects, but in a fancy and time consuming (fun, though!) way.
+
+<br>
+
+Obviously, the most recent projects are displayed first on GitHub, as I use it extensively for version control.
+
+<br>
+ <div align="center"> 
+  <a href="https://shcoobz.github.io/">
+    <img src="https://img.shields.io/badge/project_portfolio-Link-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
+  </a>
+ </div>
+
+ <br>
 </blockquote>
 
 > On my project portfolio page, I showcase exactly the same projects, but in a fancy and time consuming (fun, though!) way.
