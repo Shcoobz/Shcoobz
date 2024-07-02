@@ -1,8 +1,12 @@
 ## >>> Project Portfolio
 
+> <div style="font-size: 18px;">
+>
 > On my project portfolio page, I showcase exactly the same projects, but in a fancy and time consuming (fun, though!) way.
 >
 > Obviously, the most recent projects are displayed first on GitHub, as I use it extensively for version control.
+>
+> </div>
 >
 > <br>
 >
