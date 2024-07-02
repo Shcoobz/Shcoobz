@@ -1,12 +1,9 @@
-# PROJECT PORTFOLIO
+## PROJECT PORTFOLIO
 
 ```
  /*
-  * On my project portfolio page, I showcase exactly the same projects, but in a fancy and time consuming
-  * (fun, though!) way.
-  *
-  * Obviously, the most recent projects are displayed first on GitHub, as I use it extensively for version
-  * control.
+  On my project portfolio page, I showcase exactly the same projects, but in a fancy and time consuming (fun, though!) way.
+  Obviously, the most recent projects are displayed first on GitHub, as I use it extensively for version control.
   */
 ```
 
@@ -20,20 +17,42 @@
 
 <br>
 
-# MERN
+## BasicJava
+
+```
+/*
+ * A collection of diverse basic Java projects, which demonstrate the application of core Java principles
+ * in creating complex simulations and interactive applications.
+ *
+ * Each project focuses on object-oriented programming, data management, and user interface design, showing
+ * a progression from basic functionalities to more advanced features.
+ */
+
+```
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Shcoobz/list_basicJava-projects">
+    <img src="https://img.shields.io/badge/basicJava_projects-List-28a745?style=for-the-badge&logo=github" alt="mern projects"/>
+  </a>
+</div>
+
+<br>
+
+## MERN
 
 ```
 /*
  * ChatGPT 3.5 ChatBot using MERN Stack:
  *
- * This project demonstrates my implementation of a frontend application
- * that interacts with OpenAI's ChatGPT 3.5 API, using TypeScript along with
- * the MERN stack.
+ * This project demonstrates my implementation of a frontend application that interacts with OpenAI's
+ * ChatGPT 3.5 API, using TypeScript along with the MERN stack.
  *
- * This project showcases my ability to integrate advanced AI capabilities into
- * frontend applications using the MERN stack. It highlights skills in frontend
- * development, API integration, and building responsive web interfaces that
- * enhance user experience through real-time interactions with ChatGPT 3.5.
+ * This project showcases my ability to integrate advanced AI capabilities into frontend applications
+ * using the MERN stack. It highlights skills in frontend development, API integration, and building
+ * responsive web interfaces that enhance user experience through real-time interactions with
+ * ChatGPT 3.5.
  */
 ```
 
@@ -47,7 +66,7 @@
 
 <br>
 
-# BasicJS && AdvancedJS ++
+## BasicJS && AdvancedJS ++
 
 ```
 /*
@@ -70,7 +89,7 @@
 
 <br>
 
-# BasicJS && AdvancedJS
+## BasicJS && AdvancedJS
 
 ```
 /*
@@ -93,7 +112,7 @@
 
 <br>
 
-# BasicJS
+## BasicJS
 
 ```
 /*
@@ -110,8 +129,6 @@
 </div>
 
 <br>
-
-##
 
 <br>
 
