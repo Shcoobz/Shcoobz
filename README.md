@@ -10,7 +10,7 @@
 >  <a href="https://shcoobz.github.io/">
 >    <img src="https://img.shields.io/badge/project_portfolio-Link-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
 >  </a>
-> <p></p>
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 > <a href="https://github.com/Shcoobz/list_projects">
 >     <img src="https://img.shields.io/badge/github_projects-List-28a745?style=for-the-badge&logo=github" alt="project portfolio"/>
 >   </a>
