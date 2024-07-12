@@ -27,12 +27,6 @@
 <!-- WakaTime badge for weekly coding activity -->
 <div align="center">
   <a href="https://wakatime.com/@Shcoobz">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark" alt="WakaTime Stats"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://wakatime.com/@Shcoobz">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark&cache-bust=1" alt="WakaTime Stats"/>
   </a>
 </div>
