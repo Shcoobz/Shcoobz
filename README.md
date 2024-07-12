@@ -24,6 +24,20 @@
 
 <br>
 
+<!-- WakaTime badge for weekly coding activity -->
+<div align="center">
+  <a href="https://wakatime.com/@Shcoobz">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark" alt="WakaTime Stats"/>
+  </a>
+</div>
+
+<!-- WakaTime Common coding times -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark&range=last_7_days&custom_title=Common Coding Times&show_icons=true&langs_count=5" alt="Common Coding Times"/>
+</div>
+
+<br>
+
 <!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shcoobz&theme=whatsapp-dark2&border=28A745&currStreakNum=28A745&sideNums=28A745" alt="GitHub Streak Stats"/>
@@ -35,15 +49,6 @@
 <!-- Most used languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shcoobz&layout=compact&theme=gotham&bg_color=0B141B&title_color=28A745&border_color=28A745" alt="Top Langs"/>
-</div>
-
-<br>
-
-<!-- WakaTime badge for weekly coding activity -->
-<div align="center">
-  <a href="https://wakatime.com/@Shcoobz">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark" alt="WakaTime Stats"/>
-  </a>
 </div>
 
 <br>
