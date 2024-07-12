@@ -31,12 +31,14 @@
   </a>
 </div>
 
+<br>
+
 <!-- WakaTime Common coding times -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark&range=last_7_days&custom_title=Common Coding Times&show_icons=true&langs_count=5" alt="Common Coding Times"/>
 </div>
 
-<br>
+<br> -->
 
 <!-- GitHub Streak Stats -->
 <div align="center">
