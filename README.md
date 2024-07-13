@@ -24,6 +24,11 @@
 
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
 <!-- WakaTime badge for weekly coding activity -->
 <div align="center">
   <a href="https://wakatime.com/@Shcoobz">
