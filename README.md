@@ -24,27 +24,6 @@
 
 <br>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br>
-
-<!-- WakaTime badge for weekly coding activity -->
-<div align="center">
-  <a href="https://wakatime.com/@Shcoobz">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark&cache-bust=1" alt="WakaTime Stats"/>
-  </a>
-</div>
-
-<br>
-
-<!-- WakaTime Common coding times -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcoobz&layout=compact&theme=dark&range=last_7_days&custom_title=Common Coding Times&show_icons=true&langs_count=5" alt="Common Coding Times"/>
-</div>
-
-<br> -->
-
 <!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shcoobz&theme=whatsapp-dark2&border=28A745&currStreakNum=28A745&sideNums=28A745" alt="GitHub Streak Stats"/>
