@@ -24,5 +24,4 @@ jobs:
           COMMIT_SINGLE: False
           LOCALE: en
           UPDATED_DATE_FORMAT: '%d/%m/%Y %H:%M:%S'
-          SYMBOL_VERSION: 2
-          IGNORED_REPOS: 'Shcoobz,list_projects,list_basicJS-projects,list_basicJS-and-advancedJS-projects,list_basicJS-and-advancedJS-plus-projects,list_mern-projects,list_basicJava-projects'
+          SYMBOL_VERSION: 1
