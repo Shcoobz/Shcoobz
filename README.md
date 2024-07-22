@@ -25,39 +25,6 @@
 ## Highlights
 
 <table>
-<tr>
-    <th align="center">
-        <img width="170" height="1">
-        <p> 
-            <small>
-                Project Name
-            </small>
-        </p>
-    </th>
-    <th align="center">
-        <img width="350" height="1">
-        <p> 
-            <small>
-                Image
-            </small>
-        </p>
-    </th>
-    <th align="center">
-        <img width="170" height="1">
-        <p> 
-            <small>
-                Repo
-            </small>
-        </p>
-    </th>
-    <th align="center">
-        <img width="170" height="1">
-        <p> 
-            <small>
-                Demo
-            </small>
-        </p>
-    </th>
 </tr>
     <td align="center">
     <img width="170" height="1">
