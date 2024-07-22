@@ -27,18 +27,28 @@
 ## Highlights
 
 <table>
-</tr>
+  <tr>
     <td align="center">
-    <img width="170" height="1">
-    <strong>TechDoc-Hub</strong>
+      <img width="170" height="1" alt="">
+      <strong>TechDoc-Hub</strong>
     </td>
     <td align="center">
-    <img width="350" height="1">
-    <img src="img/advancedJS_mern_techdoc-hub.png" alt="Blabber Bot Image" width="350">
+      <img width="350" height="1" alt="">
+      <img src="img/advancedJS_mern_techdoc-hub.png" alt="Blabber Bot Image" width="350">
     </td>
-    <td align="center">     <img width="170" height="1"><a href="https://github.com/Shcoobz/advancedJS_mern_techdoc-hub/"><img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white"  style="width:110px; height:auto;" alt="Repo"></a></td>
-    <td align="center">     <img width="170" height="1"><a href="https://advancedjs-mern-techdoc-hub.onrender.com/"><img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo"></a></td>
-</tr>
+    <td align="center">
+      <img width="170" height="1" alt="">
+      <a href="https://github.com/Shcoobz/advancedJS_mern_techdoc-hub/">
+        <img src="https://img.shields.io/badge/Repo-007bff?logo=github&logoColor=white" style="width:110px; height:auto;" alt="Repo">
+      </a>
+    </td>
+    <td align="center">
+      <img width="170" height="1" alt="">
+      <a href="https://advancedjs-mern-techdoc-hub.onrender.com/">
+        <img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br>
