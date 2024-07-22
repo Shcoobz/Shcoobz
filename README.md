@@ -34,7 +34,7 @@
     </td>
     <td align="center">
       <img width="350" height="1" alt="">
-      <img src="img/advancedJS_mern_techdoc-hub.png" alt="Blabber Bot Image" width="350">
+      <img src="img/advancedJS_mern_techdoc-hub.png" alt="Blabber Bot Image" width="300" >
     </td>
     <td align="center">
       <img width="170" height="1" alt="">
