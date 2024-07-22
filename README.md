@@ -22,6 +22,8 @@
 
 ##
 
+<br>
+
 ## Highlights
 
 <table>
@@ -38,6 +40,8 @@
     <td align="center">     <img width="170" height="1"><a href="https://advancedjs-mern-techdoc-hub.onrender.com/"><img src="https://img.shields.io/badge/Demo-28a745?logo=google-chrome&logoColor=white" style="width:120px; height:auto;" alt="Demo"></a></td>
 </tr>
 </table>
+
+<br>
 
 ##
 
