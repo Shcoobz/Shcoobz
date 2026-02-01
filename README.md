@@ -68,43 +68,6 @@ Demo takes some time to load, because of render, sorry! :)
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-🌆 Daytime                1561 commits        ██████████░░░░░░░░░░░░░░░   39.63 % 
-🌃 Evening                1837 commits        ████████████░░░░░░░░░░░░░   46.64 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   538 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Tuesday                  659 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Wednesday                462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Thursday                 603 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Friday                   519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Saturday                 625 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Sunday                   533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -118,7 +81,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2026 23:21:25 UTC
+ Last Updated on 01/02/2026 23:23:42 UTC
 <!--END_SECTION:waka-->
 
 <br>
