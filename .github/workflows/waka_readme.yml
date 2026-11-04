@@ -1,8 +1,9 @@
 name: Waka Readme
 
 on:
-  schedule:
-    - cron: '0 23 * * *'
+  # nightly schedule switched off; run manually from the Actions tab if wanted
+  # schedule:
+  #   - cron: '0 23 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
