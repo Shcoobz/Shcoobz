@@ -1,24 +1,28 @@
-### Hi, I'm Shcoobz
+### Hi, I'm Shcoobz.
 
-I write novels, and I build the tools I write them with.
+I write books.<br>
+And I write the software to write them in.<br>
+And sometimes I just play.
 
-#### What I'm working on
+#### ✍️ Writing
 
-- **Spine**: a desktop app for working on a novel kept as plain Markdown files. It shows how
-  chapters and scenes fit together, lets me rearrange and edit them, and keeps every change
-  reviewable and reversible. *(Electron, React, TypeScript)*
-- **Spine for Android**: the phone companion. Read, highlight, write notes and review changes on
-  the go; everything syncs through the book's Git repository. *(Capacitor, React)*
-- **Dramatis**: chat with the characters of my books, each with their own voice and memory.
-  *(Cloudflare Workers, D1, Capacitor)*
-- **[slot for the Miyoo Flip](https://github.com/Shcoobz/slot-miyoo-flip)**: a port of the slot
-  Game Boy frontend to the Miyoo Flip, with NES and SNES, TV output, folders and more. Labels
-  are made with my matching
-  [Cart Studio fork](https://github.com/Shcoobz/cart-studio-miyoo-flip). *(Rust)*
+- **Spine**: where my novels live. Every scene a plain text file, the whole book laid out at a
+  glance, and every change something I can look at, keep or throw away.
+- **Spine for Android**: the same book in my pocket. Read, scribble notes in the margins,
+  sync, carry on at the laptop.
+- **Dramatis**: I text with my characters. They answer, remember, and sometimes have opinions
+  about the plot.
 
-#### Tools I use
+#### 🎮 Playing
 
-TypeScript · React · Electron · Capacitor · Rust · Cloudflare Workers · Laravel / PHP · Java
+- **[slot for the Miyoo Flip](https://github.com/Shcoobz/slot-miyoo-flip)**: a Game Boy
+  frontend ported to the Miyoo Flip, plus NES, SNES, folders, a TV out and a game switcher.
+- **[Cart Studio](https://github.com/Shcoobz/cart-studio-miyoo-flip)**: cart labels to go
+  with it.
+
+#### 🧰 Made with
+
+TypeScript · React · Electron · Capacitor · Rust · Cloudflare Workers · PHP · Java
 
 <div align="center">
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Shcoobz/Shcoobz/output/github-contribution-grid-snake-dark.svg" />
