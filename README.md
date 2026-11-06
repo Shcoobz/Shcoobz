@@ -1,5 +1,3 @@
-### Hi, I'm Shcoobz.
-
 I write books.<br>
 And I write the software to write them in.<br>
 And sometimes I just play.
